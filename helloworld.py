@@ -4,7 +4,7 @@ from flask import Flask
 
 PORT = 9090
 MESSAGE = "In the name of Allah : ALLAHU aclam!\n"
-MESSAGE = "BISMILLAHI RAHMANI RAHIMI"
+MESSAGE = "our loved prophet s.c.w"
 app = Flask(__name__)
 
 
